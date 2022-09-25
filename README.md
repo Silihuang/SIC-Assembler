@@ -1,3 +1,3 @@
 # SIC-Assembler
-### College-course in junior year
+### System-programming-course in junior year
 #### Check the syntax of SIC and translate it into object code.
