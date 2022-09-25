@@ -1,2 +1,3 @@
 # SIC-Assembler
-### Check the syntax of SIC and translate it into object code.
+### College-course in junior year
+#### Check the syntax of SIC and translate it into object code.
